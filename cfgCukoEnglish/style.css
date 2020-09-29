@@ -1,0 +1,15 @@
+html, body {
+  background-color: black;
+  margin: 3%;
+  padding: 0;
+  color: green;
+  
+}
+canvas {
+  display: block;
+}
+textarea {
+ color:green; 
+ font-size:large;
+  background: black;
+}
